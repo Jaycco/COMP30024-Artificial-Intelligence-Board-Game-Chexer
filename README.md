@@ -13,3 +13,5 @@ The aims for Project Part A are for you and your project partner to (1) refresh 
 ## Project B
 In this second part of the project we will play the original, three-player version of Chexers (as introduced in week 1). Before you read this specification you may wish to re-read the “Rules for the Game of Chexers” document.
 The aims for Project Part B are for you and your project partner to (1) practice game-playing algorithms discussed in lectures and tutorials, (2) develop your own strategies for playing Chexers, and (3) conduct your own research into more advanced game-playing algorithms; all for the purpose of creating the best Chexers-playing program the world has ever seen.
+
+![](/chexers-print.png)
